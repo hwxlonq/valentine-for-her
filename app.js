@@ -66,4 +66,3 @@ yes.addEventListener("click", () => {
     vid.style.display = "none";
   }, 9000);
 });
-
